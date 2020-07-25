@@ -1,5 +1,7 @@
 import math
+import matplotlib.pyplot as plt
+
+data = [1]
+plt.plot([1, 2, 3, 4])
  
-n = math.sqrt(9.0)
- 
-print(n)   # 3.0 출력
+plt.show()
